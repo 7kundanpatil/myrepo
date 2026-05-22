@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="styles.css">
+  <title>Simple CSS Design</title>
+
+
+</head>
+
+<body>
+
+  <div class="card">
+    <h1>Welcome</h1>
+    <p>This is a simple CSS design example.</p>
+    <button>Click Me</button>
+  </div>
+
+</body>
+</html>
